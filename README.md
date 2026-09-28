@@ -1,0 +1,1 @@
+# swimming-results-analyzer
